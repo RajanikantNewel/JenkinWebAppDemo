@@ -21,7 +21,7 @@ namespace JenkinWebAppDemo
                 .ConfigureWebHostDefaults(webBuilder =>
                 {//
                     webBuilder.UseStartup<Startup>();
-                    //Commen
+                    //Commenghhggnmnmmnmn
                 });
     }
 }
